@@ -26,6 +26,7 @@ class ExternalConfiguration
                 $this->runEnv = "apitest.cybersource.com";
                 $this->merchantConfigObject();
         }
+	
         //creating merchant config object
         function merchantConfigObject()
         {     
