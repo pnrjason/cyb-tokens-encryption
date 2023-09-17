@@ -5,7 +5,6 @@
 namespace CyberSource;
 require_once __DIR__. DIRECTORY_SEPARATOR .'vendor/autoload.php';
 
-
 class ExternalConfiguration
 {
         //initialize variable on constructor
